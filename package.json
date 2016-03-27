@@ -5,6 +5,10 @@
   "main": "lib/purl.js",
   "author": "Andreas Kull <akullpp@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akullpp/purl.git"
+  },
   "engines": {
     "atom": ">=1.6.0"
   },
