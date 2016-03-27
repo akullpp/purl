@@ -1,0 +1,16 @@
+{
+  "name": "purl",
+  "version": "1.0.0",
+  "description": "Opens parameterized URL external browser with the current word substituted",
+  "main": "lib/purl.js",
+  "author": "Andreas Kull <akullpp@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.6.0"
+  },
+  "activationCommands": {
+    "atom-text-editor": [
+      "purl:open"
+    ]
+  }
+}
