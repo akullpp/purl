@@ -2,6 +2,8 @@
 
 Atom plugin that opens a parameterized URL in an external browser with the current word substituted.
 
+![purl](purl.gif)
+
 ## Use Case
 
 I did it to open Jira tickets which have a shorthand notation inside a comment.
