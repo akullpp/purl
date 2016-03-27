@@ -1,7 +1,7 @@
 {
   "name": "purl",
   "version": "1.0.0",
-  "description": "Opens parameterized URL external browser with the current word substituted",
+  "description": "Atom plugin that opens a parameterized URL in an external browser with the current word substituted",
   "main": "lib/purl.js",
   "author": "Andreas Kull <akullpp@gmail.com>",
   "license": "MIT",
